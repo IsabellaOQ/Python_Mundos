@@ -1,0 +1,10 @@
+input('Hi, Isabella! How can I help you today?')
+print("I'll set everything ready as you command me to do, just wait patiently")
+print('My system is ready now to do whatever account you tell me to do.')
+n1 = int(input('Now, please, put the first number:'))
+n2 = int(input('Now, please, put the second one:'))
+print("First I'm going to make the number one plus the second one")
+s= n1+n2
+print ('It results at:{}.'.format(s))
+print('I guess you want to know what is the type of the account, I will show you')
+print(type(s))
